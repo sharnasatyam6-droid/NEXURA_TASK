@@ -10,4 +10,5 @@ int main()
     {
         cout << num << " X " << i << " = " << num * i << endl;
     }
+    return 0;
 }
