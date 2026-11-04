@@ -45,7 +45,7 @@ int main()
         break;
 
     default:
-        cout << "invalid choice! Please select A, S, D or M";
+        cout << "invalid choice! Please select A, S, D or M"<<endl;
         break;
     }
 
